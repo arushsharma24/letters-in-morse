@@ -57,7 +57,6 @@ temp+=chars[a]+"=(None)\n";
 }
 else temp+="\n";
 }
-
 }
 // -->
 </SCRIPT>
